@@ -1,0 +1,31 @@
+https://rubygems.org/gems/mdb/versions/0.3.1
+http://www.rubydoc.info/gems/mdb/0.3.1
+https://github.com/concordia-publishing-house/mdb
+
+https://stackoverflow.com/questions/1120225/ruby-and-accdb-ms-access
+
+https://rubygems.org/gems/sequel/versions/4.22.0
+Sequel.ado(:conn_string=>'Provider=Microsoft.ACE.OLEDB.12.0;Data Source=drive:\path\filename.accdb')
+
+https://stackoverflow.com/questions/1822378/how-to-open-an-accdb-file-in-ubuntu
+https://github.com/AccelerationNet/access2csv
+
+https://stackoverflow.com/questions/1440648/how-to-convert-accdb-to-a-postgres-database
+
+http://sourceforge.net/projects/mdbtools/
+
+https://support.office.com/en-us/article/Import-data-into-an-Access-database-782703aa-6b21-4458-9429-480eaf0c71d6
+http://databasesuperstar.com/ms-access-tutorial-how-to-import-csv-file/
+
+https://www.ruby-forum.com/topic/423888
+https://stackoverflow.com/questions/20054/any-tips-on-getting-rails-to-run-with-an-access-back-end
+http://odbc-rails.rubyforge.org/
+
+http://sourceforge.net/projects/mdbtools/
+
+https://rubygems.org/gems/activemdb/versions/0.2.2
+
+Works to open accdb on osx
+https://eggerapps.at/mdbviewer/
+
+http://mthomas.co.uk/5-ways-to-access-access-on-a-mac/
